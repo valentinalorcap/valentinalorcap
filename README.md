@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola 👋 Soy Valentina Lorca
+
+Doble titulación UAI: Ingeniera Civil Informática  / Ingeniera Civil Industrial
+
+Analista Programadora en Universidad Adolfo Ibañez.
+
+LinkedIn: https://www.linkedin.com/in/valentinalorcap/
 
 <!--
 **valentinalorcap/valentinalorcap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
