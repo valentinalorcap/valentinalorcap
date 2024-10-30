@@ -2,7 +2,7 @@
 
 Doble titulación UAI: Ingeniera Civil Informática  / Ingeniera Civil Industrial
 
-Actualmente: Analista Programadora en Universidad Adolfo Ibañez.
+Actualmente: Software Developer en Cotalker.
 
 LinkedIn: https://www.linkedin.com/in/valentinalorcap/
 
