@@ -1,22 +1,19 @@
-### Hola 👋 Soy Valentina Lorca
+## Hi, I'm Valentina 👋
 
-Doble titulación UAI: Ingeniera Civil Informática  / Ingeniera Civil Industrial
+Software Engineer based in Madrid — five years building production
+web applications.
 
-Actualmente: Software Developer en Cotalker.
+🔧 **Day to day:** Angular + TypeScript on the frontend, expanding
+into fullstack with NestJS, PostgreSQL, MongoDB, and Redis.
 
-LinkedIn: https://www.linkedin.com/in/valentinalorcap/
+🤖 **Lately:** building AI-assisted developer tooling — internal
+CLIs that use RAG over documentation and custom prompt skills to
+make engineering workflows faster.
 
-<!--
-**valentinalorcap/valentinalorcap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Dual degree from Universidad Adolfo Ibáñez (Chile): Computer
+Science Engineering + Industrial Engineering.
 
-Here are some ideas to get you started:
+**Tech:** `TypeScript` · `Angular` · `RxJS` · `NgRx` · `NestJS` ·
+`Node.js` · `PostgreSQL` · `MongoDB` · `Redis`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [LinkedIn](https://www.linkedin.com/in/valentinalorcap/)
